@@ -25,6 +25,7 @@
     <img src="https://img.shields.io/badge/Git-orange?logo=git&logoColor=white" alt="Git Badge"/>    
     <img src="https://img.shields.io/badge/Jenkins-grey?logo=jenkins&logoColor=white" alt="Jenkins Badge"/>
     <img src="https://img.shields.io/badge/Sonar-purple?logo=sonar&logoColor=white" alt="Sonar Badge"/>
+    <img src="https://img.shields.io/badge/Json-grey?logo=json&logoColor=white" alt="Json Badge"/>
   </p>
     </div>
   <div>
